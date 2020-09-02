@@ -1,0 +1,16 @@
+{
+  "name": "get-host",
+  "version": "1.0.3",
+  "main": "index.js",
+  "author": "大板栗 <576839360@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JustClear/get-host.git"
+  },
+  "keywords": [
+    "os",
+    "ipv4",
+    "host"
+  ],
+  "license": "MIT"
+}
