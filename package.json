@@ -1,11 +1,11 @@
 {
   "name": "get-host",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "author": "大板栗 <576839360@qq.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JustClear/get-host.git"
+    "url": "https://github.com/dabanlee/get-host.git"
   },
   "keywords": [
     "os",
